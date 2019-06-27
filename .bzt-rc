@@ -30,7 +30,7 @@
 
 modules:
   blazemeter:
-    token: 366f4910b76d679b08b7c3cb:b77f17745cc0a3f48a792ee315547b34414d9b31b75504240b2751e3f39fecd26db588e5  # API id and API secret joined with ':'
+    token: 6f3d0d707a12e6b92aefc986:7ddf78e19a2c8f56dcf11ab68fe2c22459c84ae31ca67f2470ee8af5414e28200927c2e0 # API id and API secret joined with ':'
 
     test: Test for Aric  # name for test to store reports
     project: 299881  # name for project to store test, can be numeric project ID
